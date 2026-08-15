@@ -1,10 +1,10 @@
-name: tbd
+name: terra
 parent: "sun"
 orbitRadius: 70       
 orbitVelocity: 0.04    
 orbitAngle: 30            
 orbitSpin: 0.01 
-localizedName: TBD
+localizedName: Terra
 generator: planet
 sectorSize: 2
 radius: 1.1
@@ -38,13 +38,13 @@ cloudMesh: {
   type: HexSkyMesh
   seed: 54321
   speed: 0.3    
-  radius: 0.03      
+  radius: 0.1      
   divisions: 4
   color: AAAAAA     
   octaves: 2
   persistence: 0.5
   scl: 0.8
-  threshold: 0.1    
+  threshold: 0.2 
 }
 atmosphereColor: 4A90E2
 atmosphereRadial: true
