@@ -1,5 +1,5 @@
 name: terra
-parent: "sun"
+parent: "serpulo"
 orbitRadius: 50       
 orbitVelocity: 0.04    
 orbitAngle: 280            
