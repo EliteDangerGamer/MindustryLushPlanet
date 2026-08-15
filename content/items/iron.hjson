@@ -1,0 +1,13 @@
+{
+  name: "iron"
+  localizedName: "Iron"
+  description: "A common resource that is useful for building structures and units."
+  cost: 1.0
+  color: "ffffff"
+  hardness: 1
+  radioactivity: 0.0
+  explosiveness: 0.0
+  flammability: 0.0
+  charge: 0.0
+  alwaysUnlocked: true
+}
