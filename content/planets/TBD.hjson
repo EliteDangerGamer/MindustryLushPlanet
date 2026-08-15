@@ -37,8 +37,8 @@ mesh: [
   parent: sun
   generator: serpulo
   sectorSize: 2
-  radius: 92
-  sectorCount: 
+  radius: 2
+  sectorCount: 282
   accessible: true
   startSector: 1
   mesh: planet
