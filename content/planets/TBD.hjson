@@ -27,8 +27,6 @@ cloudMesh: {
   thresh: 0.4
 }
 
-}
-
 alwaysUnlocked: true
 clearSectorOnLose: true
 allowLaunchToNumbered: true
