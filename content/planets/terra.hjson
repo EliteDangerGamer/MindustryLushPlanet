@@ -1,43 +1,36 @@
-name: tbd
+name: terra
 parent: "sun"
 orbitRadius: 70       
 orbitVelocity: 0.04    
 orbitAngle: 30            
 orbitSpin: 0.01 
-localizedName: TBD
+localizedName: Terra
 generator: planet
-sectorSize: 2
+sectorSize: 1.5
 radius: 1.1
 sectorCount: 282
 accessible: true
-startSector: 0
+startSector: 42
 mesh: [
 {
-  type: HexMesh
+  type: NoiseMesh
   planet: tbd
   seed: 12345
   divisions: 4
   color1: 4FAE19   
   color2: 2E8B57
-  radius: 1.229
+  radius: 1.1
   octaves: 3
-  persistence: 0.55   
-  scale: 0.05
-  mag: 1.5      
 }
 {
-  type: HexMesh
+  type: NoiseMesh
   planet: tbd
-  divisions: 5
-  seed: 7
-  radius: 1.229
+  divisions: 4
+  seed: 54321
+  radius: 1.1
   color1: 4A90B0   
   color2: 2B6E8F
   octaves: 3
-  persistence: 0.6
-  scale: 0.05
-  mag: 0.12
-  threshold: 0.35
 }
 ]
 
@@ -45,15 +38,15 @@ cloudMesh: {
   type: HexSkyMesh
   seed: 54321
   speed: 0.3    
-  radius: 0.03      
+  radius: 0.1      
   divisions: 4
   color: AAAAAA     
   octaves: 2
   persistence: 0.5
   scl: 0.8
-  thresh: 0.1    
+  threshold: 0.2 
 }
-atmosphereColor: 87CEEB
+atmosphereColor: 4A90E2
 atmosphereRadial: true
 alwaysUnlocked: true
 defaultCore: core-origin

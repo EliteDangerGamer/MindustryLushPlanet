@@ -13,12 +13,12 @@ requirements: [
 
 category: production
 research: core-origin
-planet:tbd
+planet: terra
 drawMineItem: true
 rotateSpeed: 2.25
 drawRim: true
 heatColor: 87ceeb
 drillTime: 130
-tier: 2
+tier: 1
 updateEffect: pulverizeMedium
 drillEffect: mineBig
