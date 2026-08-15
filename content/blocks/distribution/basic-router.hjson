@@ -4,6 +4,7 @@ name: basic-router
 size: 1
 health: 75
 speed: 5
+itemCapacity: 10
 requirements: [
 iron/5
 ]
