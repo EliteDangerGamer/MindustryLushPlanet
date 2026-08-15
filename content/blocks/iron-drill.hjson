@@ -1,0 +1,21 @@
+type: Drill
+
+name: iron-drill
+Localizedname: "Iron Drill"
+size: 2
+health: 700
+hasItems: true
+itemCapacity: 20
+
+requirements: [
+  iron/15
+]
+
+drawMineItem: true
+rotateSpeed: 2.25
+drawRim: true
+heatColor: 87ceeb
+drillTime: 180
+tier: 2
+updateEffect: pulverizeMedium
+drillEffect: mineBig
