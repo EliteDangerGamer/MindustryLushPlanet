@@ -16,7 +16,7 @@ weapons: [
   {
     name: inceptionweapon
     reload: 2
-    shootCone: 0
+    shootCone: 180
     shootWhileMoving: true
     bullet: {
       type: BasicBulletType
