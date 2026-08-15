@@ -3,5 +3,5 @@
   name: "cadmium-ore"
   localizedName: "Cadmium"
   itemDrop: "cadmium"
-  planet: tbd
+  mapColor: "6A2828"
 }
