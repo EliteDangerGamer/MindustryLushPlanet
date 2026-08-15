@@ -17,8 +17,8 @@ Aerogel
 Uranium
 Superconductor
 Carbon Nanotubes
-(blastcompound-oid)
-(pyratite-oid)
+Dynamite
+Thermite
 
 ## Liquids
 Water
