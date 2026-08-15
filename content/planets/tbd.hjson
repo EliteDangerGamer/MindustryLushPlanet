@@ -1,3 +1,16 @@
+name: tbd
+parent: "sun"
+orbitRadius: 70       
+orbitVelocity: 0.04    
+orbitAngle: 30            
+orbitSpin: 0.01 
+localizedName: TBD
+generator: planet
+sectorSize: 2
+radius: 1.1
+sectorCount: 282
+accessible: true
+startSector: 0
 mesh: [
 {
   type: HexMesh
@@ -40,3 +53,13 @@ cloudMesh: {
   scl: 0.8
   thresh: 0.6       
 }
+atmosphereColor: 87CEEB
+atmosphereRadial: true
+alwaysUnlocked: true
+defaultCore: core-origin
+clearSectorOnLose: true
+allowLaunchToNumbered: true
+iconColor: 66FF00
+itemWhitelist: [
+  iron, cadmium, coal, steel, sand, silicon
+]
