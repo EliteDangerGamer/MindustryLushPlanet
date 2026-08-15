@@ -23,7 +23,8 @@ mesh: [
   octaves: 3
   persistence: 0.55   
   scale: 0.05
-  mag: 1.5      
+  mag: 1.5
+  threshold: 0.7
 }
 {
   type: HexMesh
@@ -37,7 +38,7 @@ mesh: [
   persistence: 0.6
   scale: 0.05
   mag: 0.12
-  threshold: 0.35
+  threshold: 0.3
 }
 ]
 
@@ -51,7 +52,7 @@ cloudMesh: {
   octaves: 2
   persistence: 0.5
   scl: 0.8
-  thresh: 0.1    
+  threshold: 0.1    
 }
 atmosphereColor: 87CEEB
 atmosphereRadial: true
