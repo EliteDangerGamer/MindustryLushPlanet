@@ -7,7 +7,7 @@ orbitSpin: 0.01
 localizedName: TBD
 generator: serpulo
 sectorSize: 2
-radius: 2
+radius: 0.05
 sectorCount: 282
 accessible: true
 startSector: 27
@@ -26,7 +26,7 @@ mesh: [
   mag: 0.5
 }
 {
-  type: NoiseMesh
+  type: HexMesh
   planet: tbd
   divisions: 5
   seed: 7
