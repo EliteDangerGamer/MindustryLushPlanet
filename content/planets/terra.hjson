@@ -1,6 +1,6 @@
 name: terra
 parent: "sun"
-orbitRadius: 70       
+orbitRadius: 50       
 orbitVelocity: 0.04    
 orbitAngle: 280            
 orbitSpin: 0.01 
