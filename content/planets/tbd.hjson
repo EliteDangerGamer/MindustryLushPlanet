@@ -22,8 +22,8 @@ mesh: [
   radius: 1.229
   octaves: 3
   persistence: 0.55   
-  scale: 1.2
-  mag: 0.08      
+  scale: 1.1
+  mag: 1.5      
 }
 {
   type: HexMesh
@@ -35,9 +35,9 @@ mesh: [
   color2: 2B6E8F
   octaves: 3
   persistence: 0.6
-  scale: 1.3
+  scale: 1.11
   mag: 0.12
-  threshold: 0.55  
+  threshold: 0.35
 }
 ]
 
@@ -47,11 +47,11 @@ cloudMesh: {
   speed: 0.15    
   radius: 0.03      
   divisions: 4
-  color: DDDDDD     
+  color: AAAAAA     
   octaves: 2
   persistence: 0.5
   scl: 0.8
-  thresh: 0.6       
+  thresh: 0.1    
 }
 atmosphereColor: 87CEEB
 atmosphereRadial: true
