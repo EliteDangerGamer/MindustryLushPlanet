@@ -3,7 +3,7 @@
   localizedName: "Cadmium"
   description: "A common resource that is useful for batteries and ammo, Note: Toxic to Biological life. Not particularly strong, but dense."
   cost: 1.0
-  color: "ff0000"
+  color: "6A2828"
   hardness: 1
   radioactivity: 0.0
   explosiveness: 0.1
