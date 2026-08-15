@@ -3,7 +3,7 @@
   localizedName: "Iron"
   description: "A common resource that is useful for building structures and units."
   cost: 1.0
-  color: "ffffff"
+  color: "7DA0B0"
   hardness: 1
   radioactivity: 0.0
   explosiveness: 0.0
