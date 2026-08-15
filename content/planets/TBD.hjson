@@ -30,6 +30,21 @@ mesh: [
     octaves: 3.7
     persistence: 1.1
 }
+{
+  parent: sun
+  
+  # Use "serpulo" for standard procedural numbered sector generation
+  generator: serpulo
+  
+  # Controls size/number of procedural sectors (e.g. 1 to 3+ depending on scale)
+  sectorSize: 2
+  
+  radius: 92
+  sectorCount: 
+  accessible: true
+  startSector: 1
+  mesh: planet
+}
 ]
 
 cloudMesh: {
