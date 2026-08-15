@@ -1,6 +1,6 @@
 type: Conveyor
 name: iron-conveyor
-description: a simple conveyer belt that is quite fast
+description: a simple conveyor that is quite fast
 category: distribution
 research: core-origin
 speed: 15
