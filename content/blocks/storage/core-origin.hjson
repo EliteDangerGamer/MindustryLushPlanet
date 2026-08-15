@@ -1,7 +1,7 @@
 {
   type: CoreBlock
   name: core-origin
-  LocalizedName: "Core: Origin"
+  localizedName: "Core: Origin"
   size: 3
   health: 2500
   itemCapacity: 4000
