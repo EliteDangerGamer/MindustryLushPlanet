@@ -49,6 +49,7 @@ mesh: [
     magnitude: 1.6   # strength of the polar focus
     power: 3.0
 }
+}
 ]
 
 cloudMesh: {
