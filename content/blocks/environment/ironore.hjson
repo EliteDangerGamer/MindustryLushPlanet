@@ -1,0 +1,7 @@
+{
+  type: "OreFloor"
+  name: "iron-ore"
+  localizedName: "Iron"
+  itemDrop: "iron"
+  variants: 3
+}
