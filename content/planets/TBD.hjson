@@ -1,3 +1,9 @@
+name: "tbd"
+parent: "sun"
+orbitRadius: 160        
+orbitVelocity: 0.04    
+orbitAngle: 30            
+orbitSpin: 0.01 
 localizedName: TBD
 mesh: {
   type: HexMesh
