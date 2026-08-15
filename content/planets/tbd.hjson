@@ -35,7 +35,7 @@ mesh: [
   color2: 2B6E8F
   octaves: 3
   persistence: 0.6
-  scale: 1.11
+  scale: 1.1
   mag: 0.12
   threshold: 0.35
 }
@@ -45,7 +45,7 @@ cloudMesh: {
   type: HexSkyMesh
   seed: 54321
   speed: 0.15    
-  radius: 0.01      
+  radius: 0.03      
   divisions: 4
   color: AAAAAA     
   octaves: 2
