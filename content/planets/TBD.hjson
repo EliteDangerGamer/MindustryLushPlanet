@@ -1,6 +1,6 @@
 name: "tbd"
 parent: "sun"
-orbitRadius: 160        
+orbitRadius: 30       
 orbitVelocity: 0.04    
 orbitAngle: 30            
 orbitSpin: 0.01 
