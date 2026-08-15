@@ -9,8 +9,13 @@
   unitCapModifier: 8
   alwaysUnlocked: true
   requirements: [
-    iron/1000
-    cadmium/500
+    iron/2000
+    cadmium/1500
   ]
- 
+ research: {
+  planet: tbd
+  root: true
+  name: TBD
+  requiresUnlock: false
+}
 }
