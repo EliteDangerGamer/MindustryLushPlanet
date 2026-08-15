@@ -1,7 +1,8 @@
 {
-  type: "OreFloor"
+  type: "OreBlock"
   name: "cadmium-ore"
   localizedName: "Cadmium"
   itemDrop: "cadmium"
+  hasColor: true
   mapColor: "6A2828"
 }
