@@ -1,4 +1,4 @@
-name: "tbd"
+name: tbd
 parent: "sun"
 orbitRadius: 30       
 orbitVelocity: 0.04    
