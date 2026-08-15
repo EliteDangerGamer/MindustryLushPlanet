@@ -1,8 +1,11 @@
 type: flying
+lowAltitude: true
 flying: true
+itemCapacity: 50
+mineTier: 1
 name: inception
 localizedName: Inception
-speed: 6.0
+speed: 0.5
 health: 300
 hitSize: 2
 buildSpeed: 1.0
