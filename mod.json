@@ -1,8 +1,8 @@
 {
-  "name": "tbd-planet-mod",
-  "displayName": "TBD Planet Mod",
+  "name": "terra-planetmod",
+  "displayName": "Terra",
   "author": "EliteDangerGamer, LP0818, CoLuSo2013",
-  "description": "[scarlet]DO NOT DOWNLOAD UNLESS PLAYTESTING, WIP, MIGHT BREAK YOUR GAME!!",
-  "version": "0.2a",
+  "description": "Alpha, Still a WIP.",
+  "version": "0.2.1a",
   "minGameVersion": "159"
 }
