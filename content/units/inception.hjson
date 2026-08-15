@@ -17,11 +17,17 @@ weapons: [
     name: inceptionweapon
     reload: 2
     shootCone: 0
+    shootWhileMoving: true
     bullet: {
       type: BasicBulletType
+      collidesTeam: true
+      healPercent: 5
+      collides: true
       damage: 15
       speed: 12
       lifetime:25
+      homingPower: 0.12
+      homingRange: 60
         }
   }
 ]
