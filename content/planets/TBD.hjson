@@ -20,15 +20,18 @@ mesh: [
   mag: 0.5
 }
 {
- type: NoiseMesh
-    planet: tbd
-    divisions: 5
-    seed: 7
-    radius: 1.229
-    color1: 587d89
-    color2: 5e95a8
-    octaves: 3.7
-    persistence: 1.1
+  type: NoiseMesh
+  planet: tbd
+  divisions: 5
+  seed: 7
+  radius: 1.229
+  color1: 587d89
+  color2: 5e95a8
+  octaves: 3.7
+  persistence: 1.1
+  scale: 3.0    
+  mag: 0.8        
+  threshold: 0.2  
 }
 {
   parent: sun
