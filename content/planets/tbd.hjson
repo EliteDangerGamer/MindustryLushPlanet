@@ -13,13 +13,13 @@ accessible: true
 startSector: 0
 mesh: [
 {
-  type: HexMesh
+  type: hexMesh
   planet: tbd
   seed: 12345
-  divisions: 12
+  divisions: 4
   color1: 4FAE19   
   color2: 2E8B57
-  radius: 1.229
+  radius: 1.1
   octaves: 3
   persistence: 0.55   
   scale: 0.05
@@ -27,18 +27,18 @@ mesh: [
   threshold: 0.6
 }
 {
-  type: HexMesh
+  type: hexMesh
   planet: tbd
-  divisions: 12
-  seed: 7
-  radius: 1.229
+  divisions: 4
+  seed: 54321
+  radius: 1.1
   color1: 4A90B0   
   color2: 2B6E8F
   octaves: 3
   persistence: 0.6
   scale: 0.05
-  mag: 0.1
-  threshold: 0.6
+  mag: 0.06
+  threshold: 0.7
 }
 ]
 
