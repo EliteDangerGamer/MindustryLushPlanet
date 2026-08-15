@@ -1,5 +1,5 @@
 name: moon
-parent: "terra"
+parent: terra
 orbitRadius: 10       
 orbitVelocity: 0.04    
 orbitAngle: 30            
