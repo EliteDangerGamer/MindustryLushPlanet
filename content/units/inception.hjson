@@ -1,5 +1,4 @@
-type: unit
-flying: true
+type: flying
 name: inception
 localizedName: Inception
 speed: 1.0
