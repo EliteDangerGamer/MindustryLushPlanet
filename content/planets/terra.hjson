@@ -2,12 +2,12 @@ name: terra
 parent: "sun"
 orbitRadius: 70       
 orbitVelocity: 0.04    
-orbitAngle: 30            
+orbitAngle: 280            
 orbitSpin: 0.01 
 localizedName: Terra
 generator: planet
 sectorSize: 3
-radius: 1.1
+radius: 1.8
 sectorCount: 282
 accessible: true
 startSector: 42
