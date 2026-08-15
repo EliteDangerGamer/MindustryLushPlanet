@@ -1,7 +1,7 @@
 {
   name: "steel"
   localizedName: "Steel"
-  description: "A strong material that is excelent for building large or strong structures or units."
+  description: "A strong material that is excellent for building large or strong structures or units."
   cost: 1.0
   color: "ffffff"
   hardness: 1
