@@ -13,7 +13,7 @@ requirements: [
 
 category: production
 research: core-origin
-
+planet:tbd
 drawMineItem: true
 rotateSpeed: 2.25
 drawRim: true
