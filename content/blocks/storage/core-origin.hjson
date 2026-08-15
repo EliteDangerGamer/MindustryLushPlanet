@@ -8,6 +8,7 @@
   unitType: alpha
   unitCapModifier: 8
   alwaysUnlocked: true
+  category: effect
   requirements: [
     iron/2000
     cadmium/1500
