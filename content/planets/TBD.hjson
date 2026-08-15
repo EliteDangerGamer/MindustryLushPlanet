@@ -30,13 +30,22 @@ mesh: [
     octaves: 3.7
     persistence: 1.1
 }
+{
+  parent: sun
+  generator: serpulo
+  sectorSize: 2
+  radius: 92
+  sectorCount: 
+  accessible: true
+  startSector: 1
+  mesh: planet
+}
 ]
 
 cloudMesh: {
   type: HexSkyMesh
   seed: 54321
   speed: 0.4
-  # Cloud sphere radius.
   radius: 0.05
   divisions: 4
   color: ffffff
@@ -53,5 +62,5 @@ clearSectorOnLose: true
 allowLaunchToNumbered: true
 iconColor: 66FF00
 itemWhitelist: [
-  iron, cadmium, coal, steel sand, silicon
+  iron, cadmium, coal, steel, sand, silicon
 ]
