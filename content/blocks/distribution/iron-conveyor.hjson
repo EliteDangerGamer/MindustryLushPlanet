@@ -3,7 +3,7 @@ name: iron-conveyor
 description: a simple conveyor that is quite fast
 category: distribution
 research: core-origin
-speed: 15
+speed: 0.15
 itemCapacity: 3
 health: 50
 requirements: [
