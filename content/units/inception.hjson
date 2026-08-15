@@ -15,8 +15,8 @@ logicControllable: false
 weapons: [
   {
     name: inceptionweapon
-    reload: 2
-    shootCone: 180
+    reload: 20
+    shootCone: 30
     shootWhileMoving: true
     bullet: {
       type: BasicBulletType
