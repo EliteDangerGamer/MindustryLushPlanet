@@ -10,7 +10,7 @@ mesh: {
   seed: 12345
   divisions: 4
   color1: 66FF00
-  color2: 44CC00
+  color2: 0E87CC
   radius: 1.0
   octaves: 2
   persistence: 0.8
