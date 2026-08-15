@@ -32,13 +32,8 @@ mesh: [
 }
 {
   parent: sun
-  
-  # Use "serpulo" for standard procedural numbered sector generation
   generator: serpulo
-  
-  # Controls size/number of procedural sectors (e.g. 1 to 3+ depending on scale)
   sectorSize: 2
-  
   radius: 92
   sectorCount: 
   accessible: true
@@ -51,7 +46,6 @@ cloudMesh: {
   type: HexSkyMesh
   seed: 54321
   speed: 0.4
-  # Cloud sphere radius.
   radius: 0.05
   divisions: 4
   color: ffffff
@@ -68,5 +62,5 @@ clearSectorOnLose: true
 allowLaunchToNumbered: true
 iconColor: 66FF00
 itemWhitelist: [
-  iron, cadmium, coal, steel sand, silicon
+  iron, cadmium, coal, steel, sand, silicon
 ]
