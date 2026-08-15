@@ -1,6 +1,6 @@
 name: tbd
 parent: "sun"
-orbitRadius: 30       
+orbitRadius: 70       
 orbitVelocity: 0.04    
 orbitAngle: 30            
 orbitSpin: 0.01 
@@ -19,10 +19,10 @@ mesh: [
   divisions: 4
   color1: 66FF00
   color2: 44DD00
-  radius: 1.0
+  radius: 1.229
   octaves: 2
   persistence: 0.8
-  scale: 1
+  scale: 1.5
   mag: 0.5
 }
 {
@@ -31,11 +31,11 @@ mesh: [
   divisions: 5
   seed: 7
   radius: 1.229
-  color1: 587d89
-  color2: 5e95a8
+  color1: B3DBE9
+  color2: DEF4FC
   octaves: 3.7
   persistence: 1.1
-  scale: 3.0    
+  scale: 1.5   
   mag: 0.8        
   threshold: 0.2  
 }
