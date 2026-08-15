@@ -34,6 +34,7 @@ cloudMesh: {
 atmosphereColor: 87CEEB
 atmosphereRadial: true
 alwaysUnlocked: true
+defaultCore: core-origin
 clearSectorOnLose: true
 allowLaunchToNumbered: true
 iconColor: 66FF00
