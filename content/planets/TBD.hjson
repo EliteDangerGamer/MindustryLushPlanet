@@ -5,18 +5,32 @@ orbitVelocity: 0.04
 orbitAngle: 30            
 orbitSpin: 0.01 
 localizedName: TBD
-mesh: {
+mesh: [
+{
   type: HexMesh
+  planet: tbd
   seed: 12345
   divisions: 4
   color1: 66FF00
-  color2: 0E87CC
+  color2: 44DD00
   radius: 1.0
   octaves: 2
   persistence: 0.8
   scale: 1
   mag: 0.5
 }
+{
+ type: NoiseMesh
+    planet: tbd
+    divisions: 5
+    seed: 7
+    radius: 1.229
+    color1: 587d89
+    color2: 5e95a8
+    octaves: 3.7
+    persistence: 1.1
+}
+]
 
 cloudMesh: {
   type: HexSkyMesh
