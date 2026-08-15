@@ -1,0 +1,13 @@
+{
+  name: "cadmium"
+  localizedName: "Cadmium"
+  description: "A common resource that is useful for batteries and ammo, Note: Toxic to Biological life. Not particularly strong, but dense."
+  cost: 1.0
+  color: "ff0000"
+  hardness: 1
+  radioactivity: 0.0
+  explosiveness: 0.1
+  flammability: 0.1
+  charge: 0.0
+  alwaysUnlocked: true
+}
