@@ -1,0 +1,24 @@
+type: unit
+flying: true
+name: inception
+localizedName: Inception
+speed: 1.0
+health: 300
+hitSize: 2
+buildSpeed: 1.0
+mineSpeed: 8.0
+playerControllable: true
+logicControllable: false
+weapons: [
+  {
+    name: inceptionweapon
+    reload: 20
+    shootCone: 0
+    bullet: {
+      type: BasicBulletType
+      damage: 15
+      speed: 4
+      lifetime:15
+        }
+  }
+]

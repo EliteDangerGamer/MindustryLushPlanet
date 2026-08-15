@@ -5,7 +5,7 @@
   size: 3
   health: 2500
   itemCapacity: 4000
-  unitType: alpha
+  unitType: inception
   unitCapModifier: 8
   alwaysUnlocked: true
   category: effect
