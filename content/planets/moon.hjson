@@ -1,0 +1,36 @@
+name: moon
+parent: terra
+orbitRadius: 10       
+orbitVelocity: 0.04    
+orbitAngle: 30            
+orbitSpin: 0.01 
+localizedName: Moon
+generator: planet
+sectorSize: 3
+radius: 0.4
+sectorCount: 32
+accessible: false
+startSector: 0
+mesh: [
+{
+  type: NoiseMesh
+  planet: tbd
+  seed: 12345
+  divisions: 4
+  color1: E8E8E8
+  color2: 333333
+  radius: 0.4
+  octaves: 3
+}
+
+]
+atmosphereColor: 000000
+atmosphereRadial: false
+alwaysUnlocked: false
+defaultCore: core-origin
+clearSectorOnLose: true
+allowLaunchToNumbered: true
+iconColor: FFFFFF
+itemWhitelist: [
+]
+]
