@@ -1,0 +1,11 @@
+type: Conveyor
+name: iron-conveyor
+description: a simple conveyer belt that is quite fast
+category: distribution
+research: core-origin
+speed: 15
+itemCapacity: 3
+health: 50
+requirements: [
+  iron/1
+]
