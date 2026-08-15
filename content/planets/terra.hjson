@@ -14,7 +14,7 @@ startSector: 42
 mesh: [
 {
   type: NoiseMesh
-  planet: tbd
+  planet: terra
   seed: 12345
   divisions: 4
   color1: 4FAE19   
@@ -24,13 +24,30 @@ mesh: [
 }
 {
   type: NoiseMesh
-  planet: tbd
+  planet: terra
   divisions: 4
   seed: 54321
   radius: 1.1
   color1: 4A90B0   
   color2: 2B6E8F
   octaves: 3
+}
+{
+  type: NoiseMesh
+  planet: terra
+  seed: 67890
+  divisions: 4
+  radius: 1.1
+  color1: EEEEEE
+  color2: DDDDDD
+  octaves: 4
+  persistence: 0.65
+  scl: 0.6
+  magnitude: 1.0
+
+  polarGradient: {
+    magnitude: 1.6   # strength of the polar focus
+    power: 3.0
 }
 ]
 
