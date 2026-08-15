@@ -21,10 +21,6 @@ mesh: [
   color2: 2E8B57
   radius: 1.1
   octaves: 3
-  persistence: 0.55   
-  scale: 0.05
-  mag: 0.2
-  threshold: 0.6
 }
 {
   type: hexMesh
@@ -35,10 +31,6 @@ mesh: [
   color1: 4A90B0   
   color2: 2B6E8F
   octaves: 3
-  persistence: 0.6
-  scale: 0.05
-  mag: 0.06
-  threshold: 0.7
 }
 ]
 
