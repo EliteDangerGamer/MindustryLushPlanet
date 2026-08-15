@@ -3,5 +3,5 @@
   name: "iron-ore"
   localizedName: "Iron"
   itemDrop: "iron"
-  planet: tbd
+  mapColor: "7DA0B0"
 }
