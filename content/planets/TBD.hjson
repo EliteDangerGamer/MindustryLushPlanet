@@ -5,6 +5,13 @@ orbitVelocity: 0.04
 orbitAngle: 30            
 orbitSpin: 0.01 
 localizedName: TBD
+generator: serpulo
+sectorSize: 2
+radius: 2
+sectorCount: 282
+accessible: true
+startSector: 27
+mesh: planet
 mesh: [
 {
   type: HexMesh
@@ -32,16 +39,6 @@ mesh: [
   scale: 3.0    
   mag: 0.8        
   threshold: 0.2  
-}
-{
-  parent: sun
-  generator: serpulo
-  sectorSize: 2
-  radius: 2
-  sectorCount: 282
-  accessible: true
-  startSector: 1
-  mesh: planet
 }
 ]
 
