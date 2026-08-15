@@ -37,7 +37,7 @@ mesh: [
   octaves: 3
   persistence: 0.6
   scale: 0.05
-  mag: 0.2
+  mag: 0.1
   threshold: 0.6
 }
 ]
