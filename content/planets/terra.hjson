@@ -1,8 +1,8 @@
 name: terra
-parent: "serpulo"
+parent: "sun"
 orbitRadius: 50       
 orbitVelocity: 0.04    
-orbitAngle: 280            
+orbitAngle: 100            
 orbitSpin: 0.01 
 localizedName: Terra
 generator: planet
@@ -45,6 +45,7 @@ cloudMesh: {
   persistence: 0.5
   scl: 0.8
   threshold: 0.2 
+  alpha: 0.5
 }
 atmosphereColor: 4A90E2
 atmosphereRadial: true
