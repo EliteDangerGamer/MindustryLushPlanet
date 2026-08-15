@@ -3,7 +3,7 @@
   name: "cadmium-ore"
   localizedName: "Cadmium"
   itemDrop: "cadmium"
-  variants: 3
+  variants: 1
   hasColor: true
   mapColor: "6A2828"
 }
