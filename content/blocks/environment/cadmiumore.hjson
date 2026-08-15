@@ -1,0 +1,7 @@
+{
+  type: "OreFloor"
+  name: "cadmium-ore"
+  localizedName: "Cadmium"
+  itemDrop: "cadmium"
+  variants: 3
+}
