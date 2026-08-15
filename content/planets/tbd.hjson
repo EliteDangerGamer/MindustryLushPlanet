@@ -54,7 +54,7 @@ cloudMesh: {
   scl: 0.8
   threshold: 0.1    
 }
-atmosphereColor: 87CEEB
+atmosphereColor: 4A90E2
 atmosphereRadial: true
 alwaysUnlocked: true
 defaultCore: core-origin
