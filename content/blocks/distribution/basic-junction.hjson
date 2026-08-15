@@ -1,0 +1,11 @@
+type: Junction
+name: basic-junction
+localizedName: Basic Junction
+speed: 20
+size: 1
+health: 75
+requirements: [
+  iron/5
+]
+catergory: distribution
+research: basic-router
