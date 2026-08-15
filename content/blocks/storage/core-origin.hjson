@@ -7,7 +7,7 @@
   itemCapacity: 4000
   unitType: alpha
   unitCapModifier: 8
-  alwaysunlocked: true
+  alwaysUnlocked: true
   requirements: [
     iron/1000
     cadmium/500
