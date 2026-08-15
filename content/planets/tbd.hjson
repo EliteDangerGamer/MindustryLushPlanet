@@ -7,7 +7,7 @@ orbitSpin: 0.01
 localizedName: TBD
 generator: planet
 sectorSize: 2
-radius: 0.05
+radius: 1.1
 sectorCount: 282
 accessible: true
 startSector: 0
