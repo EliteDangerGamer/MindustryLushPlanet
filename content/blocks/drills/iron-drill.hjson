@@ -1,7 +1,7 @@
 type: Drill
 
 name: iron-drill
-Localizedname: "Iron Drill"
+localizedName: "Iron Drill"
 size: 2
 health: 700
 hasItems: true
@@ -11,11 +11,14 @@ requirements: [
   iron/15
 ]
 
+category: production
+research: core-origin
+
 drawMineItem: true
 rotateSpeed: 2.25
 drawRim: true
 heatColor: 87ceeb
-drillTime: 180
+drillTime: 130
 tier: 2
 updateEffect: pulverizeMedium
 drillEffect: mineBig
