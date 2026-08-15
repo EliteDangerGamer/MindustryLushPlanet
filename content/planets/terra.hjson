@@ -7,7 +7,7 @@ orbitSpin: 0.01
 localizedName: Terra
 generator: planet
 sectorSize: 3
-radius: 1.8
+radius: 1.1
 sectorCount: 282
 accessible: true
 startSector: 42
