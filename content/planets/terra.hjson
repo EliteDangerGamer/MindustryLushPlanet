@@ -38,8 +38,8 @@ mesh: [
   seed: 67890
   divisions: 4
   radius: 1.1
-  color1: FFFFE0
-  color2: DDEEFF
+  color1: EEEEEE
+  color2: DDDDDD
   octaves: 4
   persistence: 0.65
   scl: 0.6
