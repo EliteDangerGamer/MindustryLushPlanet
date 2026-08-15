@@ -5,12 +5,12 @@ orbitVelocity: 0.04
 orbitAngle: 30            
 orbitSpin: 0.01 
 localizedName: TBD
-generator: serpulo
+generator: planet
 sectorSize: 2
 radius: 0.05
 sectorCount: 282
 accessible: true
-startSector: 27
+startSector: 0
 mesh: [
 {
   type: HexMesh
@@ -33,7 +33,7 @@ mesh: [
   radius: 1.229
   color1: B3DBE9
   color2: DEF4FC
-  octaves: 3.7
+  octaves: 4
   persistence: 1.1
   scale: 1.5   
   mag: 0.8        
