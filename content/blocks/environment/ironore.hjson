@@ -1,7 +1,8 @@
 {
-  type: "OreFloor"
+  type: "OreBlock"
   name: "iron-ore"
   localizedName: "Iron"
   itemDrop: "iron"
+  variants: 1
   mapColor: "7DA0B0"
 }
