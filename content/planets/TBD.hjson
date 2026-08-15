@@ -1,19 +1,18 @@
 localizedName: TBD
 mesh: {
-  type: NoiseMesh
+  type: HexMesh
   seed: 12345
   divisions: 4
-  color1: FFFFFF
-  color2: FFFFFF
-  radius: 0.8
-  octaves: 3
+  color1: 66FF00
+  color2: 44CC00
+  radius: 1.0
+  octaves: 2
   persistence: 0.8
   scale: 1
-  mag: 1.5
+  mag: 0.5
 }
 
 cloudMesh: {
-  # A class name.
   type: HexSkyMesh
   seed: 54321
   speed: 0.4
@@ -21,12 +20,13 @@ cloudMesh: {
   radius: 0.05
   divisions: 4
   color: ffffff
-  octaves: 3
-  persistence: 0.7
+  octaves: 2
+  persistence: 0.5
   scl: 1
   thresh: 0.4
 }
-
+atmosphereColor: 87CEEB
+atmosphereRadial: true
 alwaysUnlocked: true
 clearSectorOnLose: true
 allowLaunchToNumbered: true
