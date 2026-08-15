@@ -11,8 +11,6 @@
     iron/1000
     cadmium/500
   ]
-  category: effect
-  research: {
-    parent: custom-core
+ alwaysunlocked: true
   }
 }
