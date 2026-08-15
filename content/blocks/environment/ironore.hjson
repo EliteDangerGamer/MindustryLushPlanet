@@ -1,5 +1,5 @@
 {
-  type: "OreFloor"
+  type: "OreBlock"
   name: "iron-ore"
   localizedName: "Iron"
   itemDrop: "iron"
