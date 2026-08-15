@@ -9,7 +9,7 @@ generator: planet
 sectorSize: 3
 radius: 0.4
 sectorCount: 32
-accessible: false
+accessible: true
 startSector: 0
 mesh: [
 {
@@ -26,7 +26,7 @@ mesh: [
 ]
 atmosphereColor: 000000
 atmosphereRadial: false
-alwaysUnlocked: false
+alwaysUnlocked: true
 defaultCore: core-origin
 clearSectorOnLose: true
 allowLaunchToNumbered: true
