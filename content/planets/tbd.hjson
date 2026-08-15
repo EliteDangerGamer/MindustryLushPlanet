@@ -13,7 +13,7 @@ accessible: true
 startSector: 0
 mesh: [
 {
-  type: hexMesh
+  type: NoiseMesh
   planet: tbd
   seed: 12345
   divisions: 4
@@ -23,7 +23,7 @@ mesh: [
   octaves: 3
 }
 {
-  type: hexMesh
+  type: NoiseMesh
   planet: tbd
   divisions: 4
   seed: 54321
