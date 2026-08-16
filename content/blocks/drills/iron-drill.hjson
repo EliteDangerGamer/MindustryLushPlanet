@@ -20,6 +20,6 @@ rotateSpeed: 2.25
 drawRim: true
 heatColor: 87ceeb
 drillTime: 130
-tier: 1
+tier: 2
 updateEffect: pulverizeMedium
 drillEffect: mineBig
