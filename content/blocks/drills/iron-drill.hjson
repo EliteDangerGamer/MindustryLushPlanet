@@ -14,7 +14,7 @@ requirements: [
 category: production
 research: core-origin
 planet: terra
-researchCostMultiplier: 0.1
+researchCostMultiplier: 0.05
 drawMineItem: true
 rotateSpeed: 2.25
 drawRim: true
