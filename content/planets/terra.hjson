@@ -47,7 +47,8 @@ mesh: [
 
   polarGradient: {
     magnitude: 1.6   # strength of the polar focus
-    power: 3.0
+    power: 8.0
+    vthreshold: 0.85
 }
 }
 ]
