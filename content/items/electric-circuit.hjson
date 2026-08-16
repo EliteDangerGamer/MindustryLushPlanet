@@ -1,0 +1,13 @@
+{
+  name: "electric-circuit"
+  localizedName: "Electronic Circuit"
+  description: "A small circuit, ready to be used in electronics."
+  cost: 1.0
+  color: "66FF00"
+  hardness: 1
+  radioactivity: 0.0
+  explosiveness: 0.1
+  flammability: 0.0
+  charge: 0.4
+  alwaysUnlocked: true
+}
