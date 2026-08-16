@@ -38,10 +38,11 @@ mesh: [
   seed: 67890
   divisions: 4
   radius: 1.1
-  color1: 777777
-  color2: 999999
+  color1: AAAAAA
+  color2: CCCCCC
   octaves: 3
   persistence: 0.4
+  threshold: 0.75
 }
 ]
 
