@@ -4,10 +4,10 @@ name: basic-router
 size: 1
 health: 75
 speed: 5
+planet:terra
 itemCapacity: 5
 requirements: [
 iron/5
-planet:terra
 ]
 category: distribution
 research: iron-conveyer
