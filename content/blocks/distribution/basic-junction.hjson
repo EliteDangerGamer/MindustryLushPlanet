@@ -1,7 +1,7 @@
 type: Junction
 name: basic-junction
 localizedName: Basic Junction
-speed: 20
+speed: 25
 size: 1
 health: 75
 planet: terra
