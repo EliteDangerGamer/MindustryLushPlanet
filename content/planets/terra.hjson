@@ -36,7 +36,7 @@ mesh: [
   type: NoiseMesh
   planet: terra
   seed: 67890
-  divisions: 2
+  divisions: 4
   radius: 1.1
   color1: EEEEEE
   color2: DDDDDD
@@ -50,10 +50,10 @@ cloudMesh: {
   seed: 54321
   speed: 0.3    
   radius: 0.1      
-  divisions: 8
+  divisions: 6
   color: AAAAAA     
   octaves: 1
-  persistence: 0.12
+  persistence: 0.25
   alpha: 0.1
 }
 atmosphereColor: 4A90E2
