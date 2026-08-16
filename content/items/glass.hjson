@@ -1,0 +1,14 @@
+{
+  name: "Glass"
+  localizedName: "Glass"
+  description: "A transparent material, great at holding pressure. Explodes when damaged."
+  cost: 1.0
+  color: "F8F9FA"
+  hardness: 1
+  radioactivity: 0.0
+  explosiveness: 0.2
+  flammability: 0.0
+  charge: 0.0
+  alwaysUnlocked: false
+  planet: terra
+}

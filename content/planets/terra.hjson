@@ -88,5 +88,5 @@ clearSectorOnLose: true
 allowLaunchToNumbered: true
 iconColor: 66FF00
 itemWhitelist: [
-  iron, cadmium, coal, steel, sand, silicon
+  iron, cadmium, coal, steel, sand, silicon, glass, graphite, electric-circuit, aluminum
 ]
