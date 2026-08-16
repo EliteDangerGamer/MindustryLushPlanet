@@ -40,10 +40,10 @@ mesh: [
   radius: 1.1
   color1: EEEEEE
   color2: DDDDDD
-  octaves: 4
-  persistence: 0.65
-  scl: 0.6
-  magnitude: 1.0
+  octaves: 2
+  persistence: 0.45
+  scl: 2.5
+  magnitude: 0.15
 }
 ]
 
