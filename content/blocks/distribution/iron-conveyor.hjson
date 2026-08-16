@@ -10,3 +10,4 @@ health: 50
 requirements: [
   iron/1
 ]
+junctionReplacement: simple-junction
