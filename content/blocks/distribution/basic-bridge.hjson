@@ -4,7 +4,6 @@ localizedName: Basic Bridge
 health: 75
 size: 1
 planet: terra
-transportLayer: 0
 requirements: [
   iron/5
   cadmium/2
@@ -12,6 +11,6 @@ requirements: [
 category: distribution
 research: basic-router
 range: 5
-speed: 25
+transportTime: 0.0666666
 itemCapacity: 10
 researchCostMultiplier: 0.1
