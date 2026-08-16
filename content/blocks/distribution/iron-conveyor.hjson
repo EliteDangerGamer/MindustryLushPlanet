@@ -4,9 +4,12 @@ description: a simple conveyor that is quite fast
 category: distribution
 research: core-origin
 speed: 0.25
-displayedSpeed: 5.0
+displayedSpeed: 15.0
 itemCapacity: 3
 health: 50
 requirements: [
   iron/1
 ]
+junctionReplacement: simple-junction
+bridgeReplacement: simple-bridge
+researchCostMultiplier: 0.05
