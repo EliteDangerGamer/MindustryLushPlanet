@@ -31,6 +31,8 @@ mesh: [
   color1: 4A90B0   
   color2: 2B6E8F
   octaves: 3
+  threshold: 0.5
+  persistance: 0.45
 }
 {
   type: NoiseMesh
@@ -42,7 +44,7 @@ mesh: [
   color2: CCCCCC
   octaves: 3
   persistence: 0.4
-  threshold: 0.75
+  threshold: 0.90
 }
 ]
 
