@@ -33,19 +33,19 @@ mesh: [
   color2: 2B6E8F
   octaves: 3
   threshold: 0.5
-  persistance: 0.45
+  persistence: 0.45
 }
 {
   type: NoiseMesh
   planet: terra
   seed: 67890
   divisions: 4
-  radius: 1.1
+  radius: 1.05
   color1: AAAAAA
   color2: CCCCCC
-  octaves: 3
-  persistence: 0.4
-  threshold: 0.90
+  octaves: 2
+  persistence: 0.25
+  threshold: 0.98
 }
 ]
 
@@ -79,6 +79,7 @@ atmosphereColor: 448EE4
 atmosphereRadial: true
 alwaysUnlocked: true
 defaultCore: core-origin
+allowSchematics: true
 clearSectorOnLose: true
 allowLaunchToNumbered: true
 iconColor: 66FF00
