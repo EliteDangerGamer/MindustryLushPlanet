@@ -44,12 +44,6 @@ mesh: [
   persistence: 0.65
   scl: 0.6
   magnitude: 1.0
-  mask: {
-    type: gradient,
-    // Set center and radius such that only the poles are visible.
-    center: [0, 1],  
-    radius: 0.1     
-  }
 }
 ]
 
