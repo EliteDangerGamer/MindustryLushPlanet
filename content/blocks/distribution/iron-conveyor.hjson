@@ -12,4 +12,4 @@ requirements: [
 ]
 junctionReplacement: basic-junction
 bridgeReplacement: basic-bridge
-researchCostMultiplier: 0.05
+researchCostMultiplier: 0.1

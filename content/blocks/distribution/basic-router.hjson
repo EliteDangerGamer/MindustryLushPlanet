@@ -12,5 +12,5 @@ iron/5
 ]
 category: distribution
 research: iron-conveyor
-researchCostMultiplier: 0.05
+researchCostMultiplier: 0.1
 }

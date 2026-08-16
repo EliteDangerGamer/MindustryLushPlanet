@@ -1,4 +1,4 @@
-type: ConveyorBridge
+type: BridgeConveyor
 name: basic-bridge
 localizedName: Basic Bridge
 health: 75
@@ -12,4 +12,4 @@ research: basic-router
 range: 5
 speed: 25
 itemCapacity: 10
-researchCostMultiplier: 0.05
+researchCostMultiplier: 0.1
