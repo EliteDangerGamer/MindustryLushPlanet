@@ -38,8 +38,8 @@ mesh: [
   seed: 67890
   divisions: 4
   radius: 1.1
-  color1: 999999
-  color2: AAAAAA
+  color1: 777777
+  color2: 999999
   octaves: 3
   persistence: 0.4
 }
@@ -52,7 +52,7 @@ cloudMesh: [
     speed: 0.15
     radius: 0.13
     divisions: 5
-    color: AAAAAA80
+    color: AAAAAAB3
     octaves: 2
     persistence: 0.45
     scale: 0.9
@@ -64,7 +64,7 @@ cloudMesh: [
     speed: 0.6
     radius: 0.16
     divisions: 5
-    color: CCCCCC50
+    color: CCCCCC80
     octaves: 2
     persistence: 0.45
     scale: 1.0
