@@ -46,9 +46,9 @@ mesh: [
   magnitude: 1.0
 
   polarGradient: {
-    magnitude: 1.6   # strength of the polar focus
-    power: 8.0
-    threshold: 0.92
+    magnitude: 1.0   # strength of the polar focus
+    power: 4.0
+    threshold: 0.95
 }
 }
 ]
@@ -58,13 +58,13 @@ cloudMesh: {
   seed: 54321
   speed: 0.3    
   radius: 0.1      
-  divisions: 4
+  divisions: 9
   color: AAAAAA     
   octaves: 2
   persistence: 0.5
-  scl: 0.8
-  threshold: 0.2 
-  alpha: 0.5
+  scl: 2.-
+  threshold: 0.5
+  alpha: 0.2
 }
 atmosphereColor: 4A90E2
 atmosphereRadial: true
