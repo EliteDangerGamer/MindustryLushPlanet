@@ -8,9 +8,10 @@ localizedName: Terra
 generator: planet
 sectorSize: 3
 radius: 1.1
+sectorPresent: true
 sectorCount: 312
 accessible: true
-startSector: 103
+startSector: 0
 mesh: [
 {
   type: NoiseMesh
@@ -26,7 +27,7 @@ mesh: [
   type: NoiseMesh
   planet: terra
   divisions: 4
-  seed: 54321
+  seed: 12421
   radius: 1.1
   color1: 4A90B0   
   color2: 2B6E8F
