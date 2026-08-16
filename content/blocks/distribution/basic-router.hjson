@@ -7,6 +7,7 @@ speed: 5
 itemCapacity: 5
 requirements: [
 iron/5
+planet:terra
 ]
 category: distribution
 research: iron-conveyer
