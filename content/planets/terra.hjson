@@ -45,7 +45,6 @@ mesh: [
   scl: 0.6
   magnitude: 1.0
 }
-}
 ]
 
 cloudMesh: {
