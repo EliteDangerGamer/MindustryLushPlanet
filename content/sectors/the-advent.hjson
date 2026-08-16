@@ -1,7 +1,7 @@
 localizedName: "The Advent"
 captureWave: 10
 planet: terra
-sector: 42
+sector: 103
 research: core-origin
 difficulty: 1
 alwaysUnlocked: true
