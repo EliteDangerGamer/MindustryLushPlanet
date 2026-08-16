@@ -4,6 +4,7 @@ localizedName: Basic Bridge
 health: 75
 size: 1
 planet: terra
+transportlayer: 0
 requirements: [
   iron/5
   cadmium/2
