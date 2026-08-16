@@ -75,6 +75,10 @@ cloudMesh: [
     thresh: 0.41
   }
 ]
+rules: {
+  defaultTeam: sharded
+  enemyTeam: blue
+}
 atmosphereColor: 448EE4
 atmosphereRadial: true
 alwaysUnlocked: true
