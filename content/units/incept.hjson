@@ -12,6 +12,14 @@ buildSpeed: 1.0
 mineSpeed: 8.0
 playerControllable: true
 logicControllable: false
+rotateSpeed: 15
+abilities: [
+  {
+    type: "RepairFieldAbility"
+    radius: 20
+    amount: 15
+    cooldown: 60
+  }
 weapons: [
   {
     name: inceptionweapon
