@@ -1,6 +1,6 @@
 type: ConveyorBridge
-name: simple-bridge
-localizedName: Simple Bridge
+name: basic-bridge
+localizedName: Basic Bridge
 health: 75
 size: 1
 requirements: [
