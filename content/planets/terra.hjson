@@ -49,15 +49,15 @@ cloudMesh: {
   type: HexSkyMesh
   seed: 54321
   speed: 0.3    
-  radius: 0.1      
+  radius: 0.05      
   divisions: 5
   color: AAAAAA     
   octaves: 1
   persistence: 0.25
   alpha: 0.1
-  threshold: 0.5
+  threshold: 0.75
 }
-atmosphereColor: 4A90E2
+atmosphereColor: 448EE4
 atmosphereRadial: true
 alwaysUnlocked: true
 defaultCore: core-origin
