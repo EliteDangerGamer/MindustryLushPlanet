@@ -9,5 +9,6 @@
   explosiveness: 0.1
   flammability: 0.0
   charge: 0.4
-  alwaysUnlocked: true
+  alwaysUnlocked: false
+  planet: terra
 }
