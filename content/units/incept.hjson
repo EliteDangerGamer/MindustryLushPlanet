@@ -20,6 +20,7 @@ abilities: [
     amount: 15
     cooldown: 60
   }
+]
 weapons: [
   {
     name: inceptionweapon
