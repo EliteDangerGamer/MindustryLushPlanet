@@ -4,6 +4,7 @@ localizedName: Basic Junction
 speed: 20
 size: 1
 health: 75
+planet: terra
 requirements: [
   iron/5
 ]
