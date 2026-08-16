@@ -3,8 +3,8 @@ lowAltitude: true
 flying: true
 itemCapacity: 50
 mineTier: 1
-name: inception
-localizedName: Inception
+name: incept
+localizedName: Incept
 speed: 3
 health: 300
 hitSize: 2
