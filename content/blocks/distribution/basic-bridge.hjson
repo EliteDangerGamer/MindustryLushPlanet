@@ -10,6 +10,6 @@ requirements: [
 category: distribution
 research: basic-router
 range: 5
-speed: 25
+speed: 5
 itemCapacity: 10
 researchCostMultiplier: 0.1
