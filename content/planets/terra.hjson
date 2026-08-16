@@ -8,7 +8,7 @@ localizedName: Terra
 generator: planet
 sectorSize: 3
 radius: 1.1
-sectorCount: 282
+sectorCount: 312
 accessible: true
 startSector: 103
 mesh: [
