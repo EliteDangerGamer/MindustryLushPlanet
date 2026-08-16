@@ -8,7 +8,7 @@ requirements: [
   cadmium/2
   ]
 category: distribution
-research: simple-router
+research: basic-router
 range: 5
 speed: 25
 itemCapacity: 10
