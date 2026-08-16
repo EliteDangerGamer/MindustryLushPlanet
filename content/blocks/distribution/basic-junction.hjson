@@ -8,6 +8,6 @@ planet: terra
 requirements: [
   iron/5
 ]
-catergory: distribution
+category: distribution
 research: basic-router
 researchCostMultiplier: 0.1
