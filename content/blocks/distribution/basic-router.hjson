@@ -11,6 +11,6 @@ requirements: [
 iron/5
 ]
 category: distribution
-research: iron-conveyer
+research: iron-conveyor
 researchCostMultiplier: 0.05
 }
