@@ -10,3 +10,4 @@ requirements: [
 ]
 catergory: distribution
 research: basic-router
+researchCostMultiplier: 0.05
