@@ -45,18 +45,32 @@ mesh: [
 }
 ]
 
-cloudMesh: {
-  type: HexSkyMesh
-  seed: 54321
-  speed: 0.3    
-  radius: 0.05      
-  divisions: 5
-  color: AAAAAA     
-  octaves: 1
-  persistence: 0.1
-  alpha: 0.1
-  threshold: 0.5
-}
+cloudMesh: [
+  {
+    type: HexSkyMesh
+    seed: 11
+    speed: 0.15
+    radius: 0.13
+    divisions: 5
+    color: 66666680
+    octaves: 2
+    persistence: 0.45
+    scale: 0.9
+    thresh: 0.38
+  }
+  {
+    type: HexSkyMesh
+    seed: 1
+    speed: 0.6
+    radius: 0.16
+    divisions: 5
+    color: 99999950
+    octaves: 2
+    persistence: 0.45
+    scale: 1.0
+    thresh: 0.41
+  }
+]
 atmosphereColor: 448EE4
 atmosphereRadial: true
 alwaysUnlocked: true
