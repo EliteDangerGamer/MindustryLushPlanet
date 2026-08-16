@@ -1,4 +1,4 @@
-type: BridgeConveyor
+type: ItemConveyor
 name: basic-bridge
 localizedName: Basic Bridge
 health: 75
