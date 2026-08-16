@@ -44,11 +44,6 @@ mesh: [
   persistence: 0.65
   scl: 0.6
   magnitude: 1.0
-
-  polarGradient: {
-    magnitude: 1.0   # strength of the polar focus
-    power: 4.0
-    threshold: 0.95
 }
 }
 ]
@@ -62,7 +57,7 @@ cloudMesh: {
   color: AAAAAA     
   octaves: 2
   persistence: 0.5
-  scl: 2.-
+  scl: 2.0
   threshold: 0.5
   alpha: 0.2
 }
