@@ -42,8 +42,6 @@ mesh: [
   color2: DDDDDD
   octaves: 2
   persistence: 0.45
-  scl: 0.75
-  magnitude: 0.15
 }
 ]
 
@@ -52,12 +50,10 @@ cloudMesh: {
   seed: 54321
   speed: 0.3    
   radius: 0.1      
-  divisions: 9
+  divisions: 4
   color: AAAAAA     
   octaves: 2
   persistence: 0.3
-  scl: 0.5
-  threshold: 0.5
   alpha: 0.2
 }
 atmosphereColor: 4A90E2
