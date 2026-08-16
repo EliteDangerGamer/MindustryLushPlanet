@@ -1,6 +1,7 @@
 {
 type: Router
 name: basic-router
+localizedName: Basic Router
 size: 1
 health: 75
 speed: 5
