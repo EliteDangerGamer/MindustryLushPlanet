@@ -1,7 +1,7 @@
 name: terra
 parent: "sun"
 orbitRadius: 50       
-orbitVelocity: 0.04    
+orbitVelocity: 0.03    
 orbitAngle: 100            
 orbitSpin: 0.01 
 localizedName: Terra
