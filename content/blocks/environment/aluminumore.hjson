@@ -1,0 +1,8 @@
+{
+  type: "OreBlock"
+  name: "aluminum-ore"
+  localizedName: "Aluminum"
+  itemDrop: "aluminum"
+  variants: 1
+  mapColor: "8E8E8E"
+}
