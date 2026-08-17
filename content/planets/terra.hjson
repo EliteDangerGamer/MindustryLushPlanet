@@ -87,6 +87,9 @@ allowSchematics: true
 clearSectorOnLose: true
 allowLaunchToNumbered: true
 iconColor: 66FF00
+hiddenItems: [
+  copper, lead, metaglass, titanium, thorium, plastanium, phase-fabric, surge-alloy, spore-pod, blast-compound, pyratite, beryllium, tungsten, oxide, carbide
+]
 itemWhitelist: [
   "iron", "cadmium", "coal", "steel", "sand", "silicon", "glass", "graphite", "electric-circuit", "aluminum"
 ]
