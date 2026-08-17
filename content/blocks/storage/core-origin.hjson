@@ -4,7 +4,7 @@
   localizedName: "Core: Origin"
   size: 3
   health: 2500
-  itemCapacity: 4000
+  itemCapacity: 5000
   unitType: incept
   unitCapModifier: 8
   alwaysUnlocked: true

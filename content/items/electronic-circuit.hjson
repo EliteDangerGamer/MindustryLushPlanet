@@ -1,5 +1,5 @@
 {
-  name: "electric-circuit"
+  name: "electronic-circuit"
   localizedName: "Electronic Circuit"
   description: "A small circuit, ready to be used in electronics."
   cost: 1.0
