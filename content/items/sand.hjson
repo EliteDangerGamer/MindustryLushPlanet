@@ -1,2 +1,6 @@
 shownPlanets: [serpulo, erekir, terra]
-research: core-origin
+research: [
+iron
+copper
+beryillium
+]

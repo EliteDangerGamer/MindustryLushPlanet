@@ -9,5 +9,8 @@
   flammability: 0.0
   charge: 0.4
   alwaysUnlocked: false
-  research: iron
+  research: [
+  silicon
+  terra
+  ]
 }
