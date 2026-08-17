@@ -3,7 +3,7 @@ parent: "sun"
 orbitRadius: 70       
 orbitTime: 12000    
 orbitOffset: 15            
-rotateTime: 0.01 
+rotateTime: 1800
 localizedName: Terra
 generator: planet
 sectorSize: 3
