@@ -1,4 +1,6 @@
-parent: copper
+lowPriority: true
+buildable: false
+alwaysUnlocked: true
 shownPlanets: [serpulo, erekir, terra]
 research: [
   {
