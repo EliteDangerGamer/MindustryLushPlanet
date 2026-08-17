@@ -1,5 +1,6 @@
 type: Conveyor
-name: iron-conveyor
+name: basic-conveyor
+localizedName: Basic Conveyor
 description: a simple conveyor that is quite fast
 category: distribution
 research: core-origin
