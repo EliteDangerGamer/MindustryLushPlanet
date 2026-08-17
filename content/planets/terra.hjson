@@ -77,9 +77,6 @@ rules: {
   defaultTeam: sharded
   enemyTeam: blue
 }
-unlockedOnLand: [
-iron, cadmium
-]
 atmosphereColor: 448EE4
 hasAtmosphere: true
 alwaysUnlocked: true
