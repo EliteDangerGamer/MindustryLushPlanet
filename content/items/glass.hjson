@@ -9,5 +9,8 @@
   flammability: 0.0
   charge: 0.0
   alwaysUnlocked: false
-  research: iron
+  research: [
+  sand
+  terra
+  ]
 }
