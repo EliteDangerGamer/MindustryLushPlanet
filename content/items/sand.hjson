@@ -1,3 +1,4 @@
+parent: copper
 shownPlanets: [serpulo, erekir, terra]
 research: [
   {
