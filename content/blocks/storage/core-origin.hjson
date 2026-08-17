@@ -16,7 +16,7 @@
  research: {
   planet: terra
   root: true
-  name: tbd
+  name: terra
   requiresUnlock: false
 }
 }
