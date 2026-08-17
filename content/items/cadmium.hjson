@@ -10,5 +10,5 @@
   flammability: 0.1
   charge: 0.0
   alwaysUnlocked: false
-  planet: terra
+  research: core-origin
 }
