@@ -1,6 +1,6 @@
 shownPlanets: [serpulo, erekir, terra]
 research: [
-core-origin
-core-shard
-core-bastion
+iron
+copper
+beryillium
 ]
