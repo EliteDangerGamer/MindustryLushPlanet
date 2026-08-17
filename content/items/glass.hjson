@@ -1,5 +1,5 @@
 {
-  name: "Glass"
+  name: "glass"
   localizedName: "Glass"
   description: "A transparent material, great at holding pressure. Explodes when damaged."
   cost: 1.0
