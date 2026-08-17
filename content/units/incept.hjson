@@ -16,9 +16,9 @@ rotateSpeed: 15
 abilities: [
   {
     type: "RepairFieldAbility"
-    radius: 20
+    range: 20
     amount: 15
-    cooldown: 60
+    reload: 60
   }
 ]
 weapons: [
