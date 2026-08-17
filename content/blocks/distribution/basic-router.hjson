@@ -5,7 +5,6 @@ localizedName: Basic Router
 size: 1
 health: 75
 speed: 5
-planet:terra
 itemCapacity: 5
 requirements: [
 iron/5
