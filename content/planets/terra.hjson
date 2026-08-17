@@ -1,15 +1,13 @@
 name: terra
 parent: "sun"
 orbitRadius: 70       
-orbitVelocity: 0.03    
-orbitAngle: 100            
-orbitSpin: 0.01 
+orbitTime: 12000    
+orbitOffset: 15            
+orbitS: 0.01 
 localizedName: Terra
 generator: planet
 sectorSize: 3
 radius: 1.1
-sectorPresent: true
-sectorCount: 312
 accessible: true
 startSector: 12
 mesh: [
@@ -79,17 +77,14 @@ rules: {
   defaultTeam: sharded
   enemyTeam: blue
 }
+unlockedOnLand: [
+iron, cadmium
+]
 atmosphereColor: 448EE4
-atmosphereRadial: true
+hasAtmosphere: true
 alwaysUnlocked: true
 defaultCore: core-origin
-allowSchematics: true
+allowLaunchSchematics: true
 clearSectorOnLose: true
 allowLaunchToNumbered: true
 iconColor: 66FF00
-hiddenItems: [
-  copper, lead, metaglass, titanium, thorium, plastanium, phase-fabric, surge-alloy, spore-pod, blast-compound, pyratite, beryllium, tungsten, oxide, carbide
-]
-itemWhitelist: [
-  "iron", "cadmium", "coal", "steel", "sand", "silicon", "glass", "graphite", "electric-circuit", "aluminum"
-]
