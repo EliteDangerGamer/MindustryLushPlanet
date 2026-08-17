@@ -26,7 +26,6 @@ weapons: [
     name: inceptionweapon
     reload: 15
     shootCone: 5
-    shootWhileMoving: true
     bullet: {
       type: BasicBulletType
       collidesTeam: true

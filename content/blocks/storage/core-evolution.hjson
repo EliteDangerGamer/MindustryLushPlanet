@@ -14,5 +14,8 @@
     silicon/2000
     electric-circuit/2000
   ]
- research: core-origin, electric-circuit
+ research: [
+  core-origin
+  electric-circuit
+]
 }
