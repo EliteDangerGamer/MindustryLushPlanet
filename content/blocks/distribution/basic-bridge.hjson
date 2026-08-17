@@ -10,6 +10,6 @@ requirements: [
 category: distribution
 research: basic-router
 range: 5
-transportTime: 0.0666666
+transportTime: 3
 itemCapacity: 10
 researchCostMultiplier: 0.1
