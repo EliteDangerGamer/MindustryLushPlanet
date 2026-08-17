@@ -1,0 +1,18 @@
+{
+  type: CoreBlock
+  name: core-evolution
+  localizedName: "Core: Evolution"
+  size: 4
+  health: 5000
+  itemCapacity: 10000
+  unitType: augment
+  unitCapModifier: 16
+  alwaysUnlocked: false
+  category: effect
+  requirements: [
+    iron/4000
+    silicon/2000
+    electric-circuit/2000
+  ]
+ research: core-origin, electric-circuit
+}
