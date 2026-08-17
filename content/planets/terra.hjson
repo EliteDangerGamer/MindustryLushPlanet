@@ -43,7 +43,7 @@ mesh: [
   color2: CCCCCC
   octaves: 2
   persistence: 0.25
-  threshold: 0.98
+  threshold: 0.925
 }
 ]
 
