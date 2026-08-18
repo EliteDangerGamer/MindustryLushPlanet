@@ -16,7 +16,7 @@ rotateSpeed: 15
 abilities: [
   {
     type: "RepairFieldAbility"
-    range: 25
+    range: 120
     amount: 30
     reload: 45
   }
